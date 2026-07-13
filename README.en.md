@@ -119,6 +119,13 @@ Separate permission is required for integration into commercial products, SaaS o
 
 See [LICENSE.txt](LICENSE.txt) for the full terms.
 
+Contact
+For comments, work, and collaborations, please contact us here and If you want to use it for commercial purposes, please contact me
+
+murakami3tech6compres9sion@gmail.com
+
+X: @nagisa7654321
+
 ## Privacy and disclaimer
 
 See [PRIVACY.md](PRIVACY.md) and [DISCLAIMER.md](DISCLAIMER.md).
