@@ -1,0 +1,160 @@
+RQSHC COMMUNITY RESEARCH AND EVALUATION LICENSE v1.0
+RQSHC コミュニティ研究・評価ライセンス v1.0
+
+Copyright (c) 2026 Hideyoshi Murakami / RQSHC Project
+All rights reserved.
+
+日本語版を正文とします。英語版と内容が異なる場合は、日本語版を優先します。
+The Japanese text is controlling. If the English text differs, the Japanese text prevails.
+
+====================
+日本語
+====================
+
+1. 無料で利用できる範囲
+
+本ライセンスの条件を守る限り、次の利用を無料で許可します。
+
+- 個人利用
+- 学習および教育利用
+- 非営利の研究利用
+- 大学、学校、研究機関での研究および評価
+- 企業または団体内部での技術評価、PoC、導入検討
+- RQIファイルの作成、閲覧、保存および共有
+- ベンチマーク、比較、論文、記事、ブログ、SNS、動画、配信等での紹介
+- 改変していない公式配布物の無料再配布
+
+ベンチマークを公開する場合は、可能な範囲で、使用バージョン、CPU、OS、入力条件、測定方法を記載してください。利用者による測定結果は、RQSHC Projectによる公式保証値ではありません。
+
+2. 再配布
+
+公式配布物は、次の条件をすべて満たす場合に限り無料で再配布できます。
+
+- 実行ファイルと同梱文書を改変しないこと
+- README、ライセンス、プライバシー方針、免責事項を削除しないこと
+- 有料販売しないこと
+- 開発者、配布元、バージョン、公式性を偽らないこと
+- マルウェア、広告ソフト、追跡ソフトその他のファイルを追加しないこと
+
+安全性と最新版確認のため、公式GitHub Releasesからの取得を推奨します。
+
+3. 禁止事項
+
+権利者の事前の書面による許可なく、次の行為を禁止します。
+
+- ソースコード、内部アルゴリズム、閾値、データ構造、独自ロジックの抽出を目的とする逆コンパイル、逆アセンブル、デバッグ、トレース、メモリ解析その他のリバースエンジニアリング
+- 実行ファイルの改変、パッチ適用、名称変更、派生版の作成
+- RQI圧縮・復号方式の無断再実装、互換実装、互換製品の開発
+- 抽出または観測した内部情報を競合製品や競合サービスへ転用すること
+- 本ソフトウェア自体の販売、貸与、再許諾
+- 著作権表示、ライセンス、バージョン表示、免責事項の削除または変更
+- 違法、権利侵害、悪意ある目的での利用
+
+通常のウイルス検査、セキュリティ確認、互換性確認は禁止しません。ただし、独自技術の抽出、再実装、競合転用を目的としてはなりません。
+
+適用法令により制限できない行為については、その必要最小限の範囲で本条を適用しません。
+
+4. 個別の許可が必要な利用
+
+次の利用には、RQSHC Projectとの個別の許可または契約が必要です。
+
+- 商用製品、アプリケーション、機器への組み込み
+- 顧客データの有償処理
+- SaaS、API、クラウドサービスとしての提供
+- OEM提供または有償再配布
+- RQI対応製品または互換実装の開発
+- 本ソフトウェアまたは関連技術による直接的な収益化
+
+5. 権利
+
+本ソフトウェア、RQI形式、圧縮・復号処理、アルゴリズム、実装、名称、文書および関連技術の権利は、RQSHC Projectまたは正当な権利者に留保されます。
+
+利用者が正当に権利を有する入力画像および画像内容の権利は、利用者または元の権利者に留保されます。
+
+6. 無保証
+
+本ソフトウェアは研究・評価段階のソフトウェアとして、現状有姿で提供されます。動作、正確性、圧縮率、画質、速度、互換性、完全性、データ保全を保証しません。
+
+重要な画像は必ず元ファイルとバックアップを保持してください。
+
+適用法令で認められる最大限の範囲において、本ソフトウェアの利用または利用不能から生じた損害について、作者および配布者は責任を負いません。
+
+7. 準拠法
+
+本ライセンスは日本法に準拠します。
+
+====================
+English
+====================
+
+1. Free permitted use
+
+Subject to this license, the Software may be used free of charge for:
+
+- Personal use
+- Learning and education
+- Non-profit research
+- Research and evaluation by schools, universities, and research institutions
+- Internal company or organizational evaluation, proof of concept, and adoption review
+- Creation, viewing, storage, and sharing of RQI files
+- Benchmarks, comparisons, papers, articles, blogs, social media, videos, and streams
+- Free redistribution of an unmodified official distribution
+
+When publishing benchmarks, please include the version, CPU, operating system, input conditions, and measurement method where practical. User measurements are not official guarantees by RQSHC Project.
+
+2. Redistribution
+
+An official distribution may be redistributed free of charge only when:
+
+- The executables and included documents are not modified
+- README, license, privacy policy, and disclaimer are retained
+- The distribution is not sold
+- The developer, source, version, and official status are not misrepresented
+- No malware, advertising software, tracking software, or other files are added
+
+Obtaining the Software from official GitHub Releases is recommended for security and version verification.
+
+3. Prohibited activities
+
+Without prior written permission, you may not:
+
+- Reverse engineer, decompile, disassemble, debug, trace, or analyze memory for the purpose of extracting source code, internal algorithms, thresholds, data structures, or original logic
+- Modify, patch, rename, or create a derivative version of the executables
+- Develop an unauthorized RQI compression or decoding implementation, compatible implementation, or compatible product
+- Transfer extracted or observed internal information to a competing product or service
+- Sell, rent, or sublicense the Software itself
+- Remove or alter copyright, license, version, or disclaimer notices
+- Use the Software for illegal, infringing, or malicious purposes
+
+Ordinary antivirus scanning, security review, and compatibility checking are allowed, provided they are not performed to extract, reimplement, or transfer proprietary technology to a competing product.
+
+This section does not restrict conduct that applicable law does not permit to be restricted, to the minimum extent required by that law.
+
+4. Uses requiring separate permission
+
+Separate permission or an agreement with RQSHC Project is required for:
+
+- Integration into a commercial product, application, or device
+- Paid processing of customer data
+- SaaS, API, or cloud-service delivery
+- OEM distribution or paid redistribution
+- Development of an RQI-compatible product or implementation
+- Direct monetization of the Software or related technology
+
+5. Rights
+
+All rights in the Software, RQI format, compression and decoding processes, algorithms, implementation, names, documentation, and related technology are reserved by RQSHC Project or their lawful owners.
+
+Rights in source images and image content remain with the user or the original rights holder.
+
+6. No warranty
+
+The Software is experimental research and evaluation software provided as is. Operation, accuracy, compression ratio, image quality, speed, compatibility, completeness, and data preservation are not guaranteed.
+
+Always keep source files and backups of important images.
+
+To the maximum extent permitted by law, the authors and distributors are not liable for damages arising from use or inability to use the Software.
+
+7. Governing law
+
+This license is governed by the laws of Japan.
