@@ -124,6 +124,8 @@ For comments, work, and collaborations, please contact us here and If you want t
 
 murakami3tech6compres9sion@gmail.com
 
+X: @nagisa7654321
+
 ## プライバシーと免責
 
 プライバシーについては[PRIVACY.md](PRIVACY.md)、免責事項については[DISCLAIMER.md](DISCLAIMER.md)をご確認ください。
