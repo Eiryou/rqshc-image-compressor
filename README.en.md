@@ -126,6 +126,7 @@ murakami3tech6compres9sion@gmail.com
 
 X: @nagisa7654321
 
+Zenn: https://zenn.dev/eiryou369/articles/4212b23bf1dcd3
 ## Privacy and disclaimer
 
 See [PRIVACY.md](PRIVACY.md) and [DISCLAIMER.md](DISCLAIMER.md).
