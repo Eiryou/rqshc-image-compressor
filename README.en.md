@@ -124,6 +124,8 @@ For comments, work, and collaborations, please contact us here and If you want t
 
 murakami3tech6compres9sion@gmail.com
 
+discord: https://discord.gg/5G7VRjGEqf
+
 X: @nagisa7654321
 
 Zenn: https://zenn.dev/eiryou369/articles/4212b23bf1dcd3
