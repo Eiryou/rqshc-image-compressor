@@ -124,7 +124,7 @@ For comments, work, and collaborations, please contact us here and If you want t
 
 murakami3tech6compres9sion@gmail.com
 
-discord: [https://discord.gg/5G7VRjGEqf](https://discord.gg/GaFVFcrb)
+discord: [[https://discord.gg/5G7VRjGEqf](https://discord.gg/GaFVFcrb)](https://discord.gg/EzMfzByBu)
 
 X: @nagisa7654321
 
