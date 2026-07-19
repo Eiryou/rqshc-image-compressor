@@ -11,6 +11,13 @@ I have deployed this as WebAssembly so that it can be easily tested online.
 Converting it to WebAssembly typically results in slower compression speeds and reduced compression ratios; however, by incorporating new algorithms and logic into the source code of the currently available .exe (binary) version, I was able to develop a version suitable for web deployment while maintaining quality.
 Note, however, that the improved .exe (binary) itself has not been released.
 
+Example benchmark (average across 15 PNG images):
+Speed: 628.55 ms
+
+Compression ratio: 34.57% (average reduction)
+
+Average SSIM quality: 0.996212
+
 rqshc-image-compressor: I will post link later
 
 ## Currently supported formats
