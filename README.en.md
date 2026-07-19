@@ -13,6 +13,13 @@ Note, however, that the improved .exe (binary) itself has not been released.
 
 Additionally, images are not uploaded to the server.
 
+My PC specs:
+CPU: AMD Ryzen 7 5700G
+Memory: 64GB DDR4
+Browser: [Chrome/Edge version]
+OS: Windows 11
+Build: WebAssembly SIMD
+
 Example benchmark (average across 15 PNG images):
 Speed: 628.55 ms
 
