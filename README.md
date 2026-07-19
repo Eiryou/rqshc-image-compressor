@@ -21,6 +21,13 @@ PNG15枚での平均ベンチマーク例
 
 平均SSIM 品質 0.996212
 
+私のPC環境:
+CPU: AMD Ryzen 7 5700G
+メモリ: 64GB DDR4
+ブラウザ: [Chrome/Edgeのバージョン]
+OS: Windows 11
+ビルド: WebAssembly SIMD
+
 rqshc-image-compressor: 後でリンクを追加します。
 
 ## 現在対応している形式
