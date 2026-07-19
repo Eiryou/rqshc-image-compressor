@@ -10,7 +10,7 @@ Processing is performed on the user's PC. The applications are not designed to u
 I have deployed this as a WebAssembly application so that it can be easily tested online.
 Converting it to WebAssembly typically risks slower compression speeds, reduced compression ratios, or compromised quality compared to local execution; however, by incorporating new algorithms and logic into the source code of the existing .exe (binary) version, I was able to develop a version suitable for web release.
 
-rqshc-image-compressor: [Link here]
+rqshc-image-compressor: I will post link later
 
 ## Currently supported formats
 
