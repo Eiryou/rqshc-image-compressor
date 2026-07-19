@@ -79,8 +79,6 @@ RQSHC is not merely a front end for an existing image compressor. The core RQI c
 
 The project uses Windows APIs and the C++ standard library, but the core compression and decoding work is not delegated to a third-party image codec. Image data and the RQI container are handled directly at the binary level.
 
-AI has been used to assist implementation, testing, debugging, and documentation. Architecture, technical constraints, evaluation criteria, acceptance and rejection decisions, and disclosure boundaries are directed by the project designer.
-
 ## Current benchmark example
 
 On the internal 14-image development test set, V64I recorded the following averages:
