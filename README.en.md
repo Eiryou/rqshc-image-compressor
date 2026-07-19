@@ -27,7 +27,7 @@ Compression ratio: 34.57% (average reduction)
 
 Average SSIM quality: 0.996212
 
-rqshc-image-compressor: I will post link later
+rqshc-image-compressor: https://rqshc-image-compressor.rqshc-lab.workers.dev/compressor
 
 ## Currently supported formats
 
