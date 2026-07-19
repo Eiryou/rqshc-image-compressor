@@ -28,7 +28,8 @@ CPU: AMD Ryzen 7 5700G
 OS: Windows 11
 ビルド: WebAssembly SIMD
 
-rqshc-image-compressor: 後でリンクを追加します。
+rqshc-image-compressor: rqshc-image-compressor.rqshc-lab.workers.dev
+
 
 ## 現在対応している形式
 
