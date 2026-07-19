@@ -7,8 +7,9 @@ RQSHC V64I is experimental image-compression software for Windows. It converts i
 Processing is performed on the user's PC. The applications are not designed to upload source images to an external cloud service for compression.
 
 ## 2026/07/19
-I have deployed this as a WebAssembly application so that it can be easily tested online.
-Converting it to WebAssembly typically risks slower compression speeds, reduced compression ratios, or compromised quality compared to local execution; however, by incorporating new algorithms and logic into the source code of the existing .exe (binary) version, I was able to develop a version suitable for web release.
+I have deployed this as WebAssembly so that it can be easily tested online.
+Converting it to WebAssembly typically results in slower compression speeds and reduced compression ratios; however, by incorporating new algorithms and logic into the source code of the currently available .exe (binary) version, I was able to develop a version suitable for web deployment while maintaining quality.
+Note, however, that the improved .exe (binary) itself has not been released.
 
 rqshc-image-compressor: I will post link later
 
