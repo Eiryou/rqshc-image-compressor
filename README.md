@@ -11,7 +11,7 @@ RQSHC V64Iは、Windows上で動作する画像圧縮の研究・評価用ソフ
 今回、Webで公開して気軽に圧縮テスト出来る様にWebAssemblyにしてデプロイしました。
 その際ローカルで実行するよりWebAssembly化によって圧縮速度やが落ちる、圧縮率低下、品質保持のため現在公開してる.exe (Binary)のソースコードを新しいアルゴリズムやロジックを追加してWebAssemblyでもなんとかWeb公開しても大丈夫な開発が出来ました。
 
-rqshc-image-compressor:  I will LINK here.
+rqshc-image-compressor: 後でリンクを追加します。
 
 ## 現在対応している形式
 
