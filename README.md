@@ -30,6 +30,7 @@ OS: Windows 11
 
 rqshc-image-compressor: [rqshc-image-compressor.rqshc-lab.workers.dev](https://rqshc-image-compressor.rqshc-lab.workers.dev/compressor)
 
+Qitta: https://qiita.com/Hideyoshi_Murakami/items/efbfeccef1d68e8b8f4e
 
 ## 現在対応している形式
 
