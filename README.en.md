@@ -29,6 +29,8 @@ Average SSIM quality: 0.996212
 
 rqshc-image-compressor: https://rqshc-image-compressor.rqshc-lab.workers.dev/compressor
 
+Qiita: https://qiita.com/Hideyoshi_Murakami/items/efbfeccef1d68e8b8f4e
+
 ## Currently supported formats
 
 ### Input
