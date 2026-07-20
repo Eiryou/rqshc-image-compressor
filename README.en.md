@@ -31,6 +31,8 @@ rqshc-image-compressor: https://rqshc-image-compressor.rqshc-lab.workers.dev/com
 
 Qiita: https://qiita.com/Hideyoshi_Murakami/items/efbfeccef1d68e8b8f4e
 
+Zenn: https://zenn.dev/eiryou369/articles/d487256d8a94d3
+
 ## Currently supported formats
 
 ### Input
