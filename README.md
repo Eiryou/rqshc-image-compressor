@@ -32,6 +32,8 @@ rqshc-image-compressor: [rqshc-image-compressor.rqshc-lab.workers.dev](https://r
 
 Qitta: https://qiita.com/Hideyoshi_Murakami/items/efbfeccef1d68e8b8f4e
 
+Zenn: https://zenn.dev/eiryou369/articles/d487256d8a94d3
+
 ## 現在対応している形式
 
 ### 入力
